@@ -1,5 +1,6 @@
 tofu
 broccoli
 black bean sauce
+peas
 bean sprouts
 olive oil
