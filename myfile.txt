@@ -4,4 +4,8 @@ broccoli
 olive oil
 peas
 tofu
+chili
+garlic
+sesame oil
+
 
